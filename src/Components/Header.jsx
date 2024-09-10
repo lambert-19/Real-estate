@@ -12,7 +12,7 @@ function Header() {
             </span>
           </div>
         </Link>
-        <form className="flex items-center bg-slate-100 p-3rounded-lg">
+        <form className="flex items-center p-3 rounded-lg bg-slate-100">
           <FaSearch className="text-black" />
           <input
             type="text"
